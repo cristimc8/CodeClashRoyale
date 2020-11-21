@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: http://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="900pt"
+    height="756pt"
+    viewBox="0 0 900 756">
+<defs>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1.4142135623731" y2="0" spreadMethod="pad">
+   <stop stop-color="#b6fffa" offset="0" stop-opacity="1"/>
+   <stop stop-color="#b6fffa" offset="0.803797483444214" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient1" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#dafffc" offset="0" stop-opacity="1"/>
+   <stop stop-color="#dafffc" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient2" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#dafffc" offset="0" stop-opacity="1"/>
+   <stop stop-color="#dafffc" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient3" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#dafffc" offset="0" stop-opacity="1"/>
+   <stop stop-color="#dafffc" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient4" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#dafffc" offset="0" stop-opacity="1"/>
+   <stop stop-color="#dafffc" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient5" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#dafffc" offset="0" stop-opacity="1"/>
+   <stop stop-color="#dafffc" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient6" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1.4142135623731" y2="0" spreadMethod="pad">
+   <stop stop-color="#63b5c8" offset="0" stop-opacity="1"/>
+   <stop stop-color="#d8fefb" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient7" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#dafffc" offset="0" stop-opacity="1"/>
+   <stop stop-color="#d4fcfb" offset="0.828220844268799" stop-opacity="1"/>
+   <stop stop-color="#d8fefb" offset="0.987730085849762" stop-opacity="1"/>
+   <stop stop-color="#95e1f3" offset="1" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+<rect id="shape0" transform="translate(82.710000104716, 44.279997031732)" fill="#b6fffa" fill-rule="evenodd" stroke="url(#gradient0)" stroke-width="64.8" stroke-linecap="square" stroke-linejoin="bevel" width="721.620000668936" height="578.879982516577" rx="42.48" ry="55.2652411844772"/><rect id="shape1" transform="matrix(-0.000897720275391739 -0.999999597049072 0.999999597049072 -0.000897720275391739 180.831615498841 212.523369116268)" fill="#dafffc" fill-rule="evenodd" stroke="url(#gradient1)" stroke-width="28.8" stroke-linecap="square" stroke-linejoin="bevel" width="113.641690704328" height="538.448593627952" rx="24.6780836421288" ry="26.9976960505495"/><rect id="shape01" transform="matrix(-0.000897720232606578 -0.999999549389315 0.999999549389315 -0.000897720232606578 180.546338514031 501.887789872805)" fill="#dafffc" fill-rule="evenodd" stroke="url(#gradient2)" stroke-width="28.8" stroke-linecap="square" stroke-linejoin="bevel" width="247.553511162639" height="247.493734859801" rx="20.9202232211568" ry="20.9202232211568"/><rect id="shape011" transform="matrix(-0.000897720232606578 -0.999999549389315 0.999999549389315 -0.000897720232606578 470.183087195365 314.123275330877)" fill="#dafffc" fill-rule="evenodd" stroke="url(#gradient3)" stroke-width="28.8" stroke-linecap="square" stroke-linejoin="bevel" width="50.6246298114086" height="246.230200179012" rx="7.58423524036243" ry="7.58423524036243"/><rect id="shape02" transform="matrix(-0.000897720236671039 -0.999999553916876 0.999999553916876 -0.000897720236671039 469.72221830955 403.422826531098)" fill="#dafffc" fill-rule="evenodd" stroke="url(#gradient4)" stroke-width="28.8" stroke-linecap="square" stroke-linejoin="bevel" width="50.6246298114086" height="246.230200179012" rx="7.58423524036243" ry="7.58423524036243"/><rect id="shape03" transform="matrix(-0.00089772023667104 -0.999999553916876 0.999999553916876 -0.00089772023667104 470.802218235185 492.839408672175)" fill="#dafffc" fill-rule="evenodd" stroke="url(#gradient5)" stroke-width="28.8" stroke-linecap="square" stroke-linejoin="bevel" width="50.6246298114086" height="246.230200179012" rx="7.58423524036243" ry="7.58423524036243"/><rect id="shape2" transform="translate(50.399998818197, 557.28)" fill="url(#gradient6)" fill-rule="evenodd" stroke="url(#gradient7)" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="786.340055047428" height="153.36" rx="37.1800865714889" ry="37.1800865714889"/><path id="shape3" transform="translate(71.999998904273, 573.119996529534)" fill="none" stroke="#b6fffa" stroke-width="43.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0.72C247.44 0.48 494.88 0.24 742.32 0"/>
+</svg>

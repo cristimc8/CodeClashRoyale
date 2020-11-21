@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: http://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="864pt"
+    height="756pt"
+    viewBox="0 0 864 756">
+<defs>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#472525" offset="0.972696245733788" stop-opacity="0.0313725490196078"/>
+   <stop stop-color="#472525" offset="1" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="gradient1" gradientUnits="objectBoundingBox" cx="0" cy="0" fx="0" fy="0" r="1.4142135623731" spreadMethod="pad">
+   <stop stop-color="#cc3bca" offset="0" stop-opacity="1"/>
+   <stop stop-color="#fa0d47" offset="0.261904761904762" stop-opacity="1"/>
+   <stop stop-color="#e22aa2" offset="0.747440273037543" stop-opacity="1"/>
+   <stop stop-color="#ff0000" offset="0.924914675767918" stop-opacity="1"/>
+  </radialGradient>
+ </defs>
+<rect id="shape0" transform="translate(22.6800000000001, 21.208281935606)" fill="#172843" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="818.64" height="706.678414096916" rx="53.2863436123348" ry="53.2863436123348"/><circle id="shape1" transform="matrix(0.999927409235831 -0.0120489111096247 0.0120489111096247 0.999927409235831 795.190335217748 42.8665626357996)" r="9" cx="9" cy="9" fill="#ff0000" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/><circle id="shape01" transform="matrix(0.999927413575662 -0.0120489111619203 0.0120489111619203 0.999927413575662 696.672723193451 42.5502909018625)" r="9" cx="9" cy="9" fill="#cccc20" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/><circle id="shape01" transform="matrix(0.999990410404783 0.00438038568805523 -0.00438038568805523 0.999990410404783 746.355508298063 42.9073938288259)" r="9" cx="9" cy="9" fill="#e6e6e6" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/><path id="shape02" transform="matrix(0.148789466142578 0.988868896651643 -0.988868896651643 0.148789466142578 520.604029069824 119.683845042548)" sodipodi:type="arc" sodipodi:rx="105.472697419856" sodipodi:ry="107.737821319733" sodipodi:cx="105.491634678932" sodipodi:cy="103.216327944155" sodipodi:start="6.18373024707615" sodipodi:end="4.4216504889832" sodipodi:open="true" d="M75.2569 0C21.9503 16.2928 -9.79703 72.0821 2.7242 127.461C15.2454 182.84 67.728 218.758 122.63 209.522C177.532 200.287 215.968 149.075 210.443 92.5189" fill="url(#gradient0)" fill-rule="evenodd" stroke="url(#gradient1)" stroke-width="25.2" stroke-linecap="square" stroke-linejoin="bevel"/><rect id="shape0" transform="translate(108.72, 421.92)" fill="#f2f2f2" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="295.2" height="243.36" rx="35.6400105156675" ry="35.6400105156675"/><rect id="shape03" transform="matrix(0.999999955996164 0 0 0.999999955996164 534.579985210938 447.995980882866)" fill="#f2f2f2" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="215.900003288993" height="38.5640074921975" rx="12.6440070917236" ry="12.6440070917236"/><rect id="shape04" transform="matrix(0.999999961223343 0 0 0.999999961223343 534.66999587354 518.912381803941)" fill="#f2f2f2" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="215.900003288993" height="38.5640074921975" rx="12.6440070917236" ry="12.6440070917236"/><rect id="shape05" transform="matrix(0.999999961223343 0 0 0.999999961223343 533.589995904378 591.272379737813)" fill="#f2f2f2" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="215.900003288993" height="38.5640074921975" rx="12.6440070917236" ry="12.6440070917236"/>
+</svg>

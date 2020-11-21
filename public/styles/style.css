@@ -1,15 +1,34 @@
 :root {
 
-    --navbar-link: #8b351b;
-    --navbar-link-hover: #14ac53;
-    --navbar-link-active: #8b351b;
-    --navbar-link-focus: #8b351b;
+    --navbar-link: #bebebe;
+    --navbar-link-hover: #e4e4e4;
+    --navbar-link-active: #ffffff;
+    --navbar-link-focus: #ffffff;
+
+    --button-primary-color: #000000;
+    --button-primary-background-color: #4189e600;
+    --button-primary-border: #000000;
+
+    --button-primary-hover-color: #ffffff;
+    --button-primary-hover-background-color: #363636;
+    --button-primary-hover-border: #000000;
+
+    --button-primary-focus-color: #ffffff;
+    --button-primary-focus-background-color: #292929;
+    --button-primary-focus-border: #000000;
+    --button-primary-focus-shadow:  rgba(0, 0, 0, 0.25);
+
+    --button-primary-pressed-color: #ffffff;
+    --button-primary-pressed-background-color: #000000;
+    --button-primary-pressed-border: #000000;
+    --button-primary-pressed-shadow: rgba(0, 0, 0, 0.5);
+
     --promo-background: #42a5f5;
 }
 
 
 /*      Navbar       */
-#mainNav .navbar-nav
+#mainNav 
 {
     padding-right: 4rem;
 }
@@ -17,11 +36,20 @@
 #mainNav .navbar-brand{
     padding-left: 4rem;
     font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 750;
 }
 
 #mainNav li.nav-item{
     color: var(---navbar-link);
     padding-right: 3rem;
+    
+}
+
+#mainNav .nav-link{
+    color: var(--navbar-link);
+    --font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 #mainNav .nav-link:hover{
@@ -32,8 +60,8 @@
     color: var(--navbar-link-focus);
 }
 
-.navbar-nav > .nav-item > .active > .nav-link{
-    color: var(--navbar-link-active);
+#mainNav .active > .nav-link{
+    color: var(--navbar-link-active) !important
 }
 
 /*      Container       */
@@ -41,10 +69,42 @@
     padding-top: 4rem;
 }
 
+/*      Headline        */
 #bold-headline{
     font-weight: 700;
     font-size: 3.2rem;
 }
+
+/*      Buttons       */
+.btn-primary {
+    color: var(--button-primary-color);
+    background-color: var(--button-primary-background-color);
+    border-color: var(--button-primary-border);
+}
+
+.btn-primary:hover {
+    color: var(--button-primary-hover-color);
+    background-color: var(--button-primary-hover-background-color);
+    border-color: var(--button-primary-hover-border);
+}
+
+.btn-primary:focus, .btn-primary.focus{
+    color: var(--button-primary-focus-color);
+    background-color: var(--button-primary-focus-background-color);
+    border-color: var(--button-primary-focus-border);
+    box-shadow: 0 0 0 0.2rem var(--button-primary-focus-shadow);
+}
+
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show>.btn-primary.dropdown-toggle {
+    color: var(--button-primary-pressed-color);
+    background-color: var(--button-primary-pressed-background-color);
+    border-color: var(--button-primary-border-color);
+}
+
+.btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show>.btn-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem var(--button-primary-pressed-shadow);
+}
+
 
 /*      Promo       */
 #promo{

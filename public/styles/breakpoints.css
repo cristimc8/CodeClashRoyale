@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+    #bold-headline{
+        font-weight: 700;
+        font-size: 2.2rem;
+    }
+    .row-reverse-on-small{
+        display: flex;
+        flex-flow: column-reverse;
+    }
+}
